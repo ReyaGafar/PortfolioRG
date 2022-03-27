@@ -1,0 +1,75 @@
+body{
+ background-color: #fdece8;
+}
+
+div.header{ 
+font-family: Bodoni MT;
+size: 10;
+color: black;
+background-color:#f9d9d2;
+text-align: center;}
+img.logo{
+float: left;}
+
+
+/*img
+{float:right;
+padding-right:350px;
+ } */
+ 
+ ul.nav{
+		list-style-type: none;
+		margin: 0;
+		padding:0;
+		overflow: hidden;
+		background-color: #333;}
+		.nav li{
+		float: left;}
+		.nav li a {
+		display: inline-block; color: #f9d9d2;
+		text-align: center;
+		padding:14px 16px; 
+		text-decoration: none;}
+		.nav li a:hover {
+		background-color: #111;}
+		.clicked{
+		background-color: pink;}
+		}
+h2{margin-left:50%;
+color:grey;}
+
+ p
+ {color: grey;
+  font-family: Bahnschrift;
+  display: block;
+  float:leftwards
+  }
+div.projects
+{border: 3px solid #f9d9d2;
+margin: auto;
+padding: 50px; 
+text-align: center;}
+font face="Bodoni MT"
+  
+
+ 
+div.thumbnails{
+border: 1px solid none;
+margin-bottom: 150px;
+}
+
+div.achievement{
+border: 3px solid #f9d9d2;
+margin-top: 150px;
+padding: 50px; 
+text-align: center;
+}
+	
+div.bgimg {
+	margin-top: 50px;
+  
+}
+
+div.foot{
+	background-color:#f9d9d2;
+}
